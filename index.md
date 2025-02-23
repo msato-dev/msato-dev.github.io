@@ -8,7 +8,7 @@
 ## PGP public key
 The PGP public key (`.asc`) is available for download through the following links.
 
-| DL link     | [pub_key.asc](./keys/pgp/pub_key.asc)               |
+| DL link     | [pub_key.asc](./pub_key.asc)                        |
 | :----       | :----                                               |
 | Expires     | Never                                               |
 | Fingerprint | FA88 641E 8D71 5A1B 154C  A02D 1C89 DE69 590E C7CA  |
