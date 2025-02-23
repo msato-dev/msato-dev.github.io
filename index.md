@@ -14,7 +14,7 @@ The PGP public keys (`.asc`) are available for download through the following li
 | Algorithm   | Ed25519                                             |
 | Expires     | Never                                               |
 | Fingerprint | FA88 641E 8D71 5A1B 154C  A02D 1C89 DE69 590E C7CA  |
-| User ID     | Motohiro Sato <msatores (^a^) gmail.com>            |
+| User ID     | Motohiro Sato <msatores (^c^) gmail.com>            |
 | DL link     | [pub_pmkey_cert.asc](./keys/pgp/pub_pmkey_cert.asc) |
 
 | Key ID      | C74B05071E253936                                            |
