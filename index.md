@@ -1,9 +1,11 @@
 # Motohiro Sato
 
 - [ORCID](https://orcid.org/0000-0002-3057-8570)
-- [Google Scholar](https://scholar.google.com/citations?user=XssHnNwAAAAJ)
+- [Researchmap](https://researchmap.jp/motohirosato)
 - [ResearchGate](https://www.researchgate.net/profile/Motohiro-Sato-4)
+- [Google Scholar](https://scholar.google.com/citations?user=XssHnNwAAAAJ)
 - [GitHub](https://github.com/primordialocean)
+- [Facebook](https://www.facebook.com/stmthr)
 
 ## PGP public key
 The PGP public key (`.asc`) is available for download through the following links.
