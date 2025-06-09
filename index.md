@@ -4,7 +4,7 @@
 - [Researchmap](https://researchmap.jp/motohirosato)
 - [ResearchGate](https://www.researchgate.net/profile/Motohiro-Sato-4)
 - [Google Scholar](https://scholar.google.com/citations?user=XssHnNwAAAAJ)
-- [GitHub](https://github.com/primordialocean)
+- [GitHub](https://github.com/msato-dev)
 - [Facebook](https://www.facebook.com/stmthr)
 
 ## PGP public key
